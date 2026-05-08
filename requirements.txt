@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-openai
+langserve
+fastapi
+uvicorn
+gradio
+chromadb
+sentence-transformers
+pymupdf
+pdfplumber
+python-docx
+faiss-cpu
+python-dotenv
+pydantic
+openai
+requests
